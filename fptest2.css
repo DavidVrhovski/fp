@@ -1,4 +1,8 @@
 @import url('https://pgsil.github.io/awfullydark2/optionals/sdbr.css');
+#header .navbar-main.navbar.is-dark .navbar-brand .navbar-item.logo {
+    background-image: url(https://my.mixtape.moe/qvtxrv.svg);
+    background-size:100%;
+}
 .postavatar,body.page-forum .forumblock .forumlastpostavatar{display:none}
 .postrender .postinner>.postuser .background-image{background-repeat:no-repeat;}
 .alert-dropdown div {padding: 0 .5rem .5rem;}
