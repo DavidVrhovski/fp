@@ -6,5 +6,5 @@
 body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount { display: none; }
 .postrender .postinner>.postuser .username {
   text-align: center;
-  text-shadow: 0px 3px 5px #3a85c08f;
+  text-shadow: 0px 3px 3px #3a85c08f;
 }
