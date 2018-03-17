@@ -1,7 +1,11 @@
 @import url('https://pgsil.github.io/awfullydark2/optionals/sdbr.css');
 .postavatar,body.page-forum .forumblock .forumlastpostavatar{display:none}
-
 .postrender .postinner>.postuser .background-image{background-repeat:no-repeat;}
 .alert-dropdown div {padding: 0 .5rem .5rem;}
 .ql-container.ql-snow .ql-editor p {color: #0a0a0a; font-size: 11pt;}
 body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount { display: none; }
+.username {
+  text-align: center;
+  text-shadow: 0px 3px 2px rgba(51, 129, 189, 0.25);
+  font-family: BellCentennial-NameAndNumber;
+}
