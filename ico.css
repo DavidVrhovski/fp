@@ -1,5 +1,9 @@
+.votes .votelist {display: none;}
+.postblock .postfoot .right .votebuttons {display: none;}
 .votebutton {
 	background: url(http://puu.sh/zITYm/dd22835865.png) no-repeat;
 	width: 72px;
 	height: 72px;
+	padding-left: 72px;
+	
 }
