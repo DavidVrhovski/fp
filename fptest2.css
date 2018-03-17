@@ -11,3 +11,14 @@ body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount
 .postrender .postinner>.postuser .username {
   text-align: center;
 }
+spoiler:hover {
+    transition: color 0s ease 0s;
+    color: #fff;
+}
+spoiler {
+    transition: color 0s ease 0s;
+    color: #333;
+    background-color: #333;
+    filter: none;
+    opacity: 1;
+}
