@@ -14,5 +14,9 @@ body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount
 	position: relative;
 }
 .postblock .postfoot .right .voted_notice:after {
-  content: "Your PayPal has been successfuly charged";
+	visibility: visible;
+	position: absolute;
+	top: 0;
+	left: 0;
+	content: "Your PayPal has been successfuly charged";
 }
