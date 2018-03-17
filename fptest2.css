@@ -4,4 +4,6 @@
 .alert-dropdown div {padding: 0 .5rem .5rem;}
 .ql-container.ql-snow .ql-editor p {color: #0a0a0a; font-size: 11pt;}
 body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount { display: none; }
-.postrender .postinner>.postuser .username {text-align: center;}
+.postrender .postinner>.postuser .username {
+  text-align: center;
+}
