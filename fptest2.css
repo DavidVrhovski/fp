@@ -1,4 +1,6 @@
 @import url('https://pgsil.github.io/awfullydark2/optionals/sdbr.css');
+@import url('https://witheredgryphon.github.io/css/AlteredUsernames/AlteredUsernames.css');
+
 .postblock-read .postrender .postinner > .postuser .background-image::before { background-color: rgba(230,230,230,0.7) !important; }
 .postrender .postinner > .postuser .background-image::before { background-color: rgba(230,230,230,0.7) !important; }
 .postavatar,body.page-forum .forumblock .forumlastpostavatar{display:none}
@@ -8,4 +10,3 @@
 	font-family: BellCentenial-NameAndNumber;
 .ql-container.ql-snow .ql-editor p {color: #0a0a0a; font-size: 11pt;}
 body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount { display: none; }
-.postuser .posterinfo {box-shadow:unset; margin-left:-0.5rem; margin-right:-0.5rem; !important; padding-top:0.5rem; margin-top:-0.5rem !important; padding-bottom:5px; height:4.5rem !important; opacity:1;}
