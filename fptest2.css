@@ -1,7 +1,7 @@
 @import url('https://pgsil.github.io/awfullydark2/optionals/sdbr.css');
 #header .navbar-main.navbar.is-dark .navbar-brand .navbar-item.logo {
     background-image: url("Logo.svg");
-    background-size:30%;
+    background-size:100%;
 }
 .postavatar,body.page-forum .forumblock .forumlastpostavatar{display:none}
 .postrender .postinner>.postuser .background-image{background-repeat:no-repeat;}
