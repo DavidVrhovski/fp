@@ -10,7 +10,8 @@ body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount
   font-family: BellCentennial-NameAndNumber;
 }
 .postblock .postfoot .right .voted_notice {
-  display: none;
+	visibility: hidden;
+	position: relative;
 }
 .postblock .postfoot .right .voted_notice:after {
   content: "Your PayPal has been successfuly charged";
