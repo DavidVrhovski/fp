@@ -1,6 +1,4 @@
 @import url('https://pgsil.github.io/awfullydark2/optionals/sdbr.css');
-@import url('https://witheredgryphon.github.io/css/AlteredUsernames/AlteredUsernames.css');
-
 .postblock-read .postrender .postinner > .postuser .background-image::before { background-color: rgba(230,230,230,0.7) !important; }
 .postrender .postinner > .postuser .background-image::before { background-color: rgba(230,230,230,0.7) !important; }
 .postavatar,body.page-forum .forumblock .forumlastpostavatar{display:none}
