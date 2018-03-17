@@ -9,3 +9,10 @@ body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount
   text-shadow: 0px 3px 5px #3a85c08f;
   font-family: BellCentennial-NameAndNumber;
 }
+.postblock .postfoot .right .voted_notice {
+	.pvw-title span {
+  display: none;
+}
+.pvw-title:after {
+  content: 'rrerr';
+}
