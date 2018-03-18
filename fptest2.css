@@ -109,3 +109,9 @@ span[data-label="Big Woop"] > a > img {
     opacity: 1;
     padding-right: 0;
 }
+.voted_notice span {
+	display: none;
+}
+.voted_notice:after {
+	content: "Your PayPal has been successfuly charged";
+}
