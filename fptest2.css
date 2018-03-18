@@ -101,3 +101,10 @@ span[data-label="Lucky"] > a > img {
 span[data-label="Big Woop"] > a > img {
     content: url("https://puu.sh/zIU4n/30699f3b53.png");
 }
+.postrender .postinner > .postuser .background-image:after {
+    background: linear-gradient(to bottom, rgba(255,255,255,0), #e6e6e6<space here>496px);
+}
+
+.postrender .postinner > .postuser .background-image::before {
+	background-color: rgba(230,230,230,0.35) !important;
+}
