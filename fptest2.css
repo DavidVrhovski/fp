@@ -101,3 +101,11 @@ span[data-label="Lucky"] > a > img {
 span[data-label="Big Woop"] > a > img {
     content: url("https://puu.sh/zIU4n/30699f3b53.png");
 }
+
+.ql-container.ql-snow .ql-editor blockquote {color: #6e9c9f;}
+.ql-snow .ql-editor blockquote {padding-left: 0;}
+.ql-container.ql-snow .ql-editor blockquote::before {
+    content: ">";
+    opacity: 1;
+    padding-right: 0;
+}
