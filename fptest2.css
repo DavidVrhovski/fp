@@ -38,7 +38,7 @@ span[data-label="Late"] > a > img {
     content: url("https://www.wikipunch.com/images/3/3d/2011rating_Late.png");
 }
 
-span[data-label="Love"] > a > img {
+span[data-label="Friendly"] > a > img {
     content: url("https://www.wikipunch.com/images/2/20/2011rating_Friendly.png");
 }
 
@@ -50,8 +50,12 @@ span[data-label="Artistic"] > a > img {
     content: url("https://www.wikipunch.com/images/d/d4/2011rating_Artistic.png");
 }
 
-span[data-label="Cookie"] > a > img {
+span[data-label="Winner"] > a > img {
     content: url("https://puu.sh/zISyu/3dcfc16599.png");
+}
+
+span[data-label="Dumb"] > a > img {
+    content: url("https://www.wikipunch.com/images/d/d2/2011rating_Dumb.png");
 }
 
 span[data-label="Child Molester"] > a > img {
@@ -79,7 +83,7 @@ span[data-label="Diamond"] > a > img {
 }
 
 span[data-label="Asshole"] > a > img {
-    content: url("https://www.wikipunch.com/images/d/d2/2011rating_Dumb.png");
+    content: url("http://puu.sh/zY8Pt/d7c6a646e4.png");
 }
 
 span[data-label="Bad Spelling"] > a > img {
@@ -100,6 +104,10 @@ span[data-label="Lucky"] > a > img {
 
 span[data-label="Big Woop"] > a > img {
     content: url("https://puu.sh/zIU4n/30699f3b53.png");
+}
+
+span[data-label="Informative"] > a > img {
+    content: url("http://puu.sh/zY8Kq/366de4eb56.png");
 }
 
 .ql-container.ql-snow .ql-editor blockquote {color: #6e9c9f;}
