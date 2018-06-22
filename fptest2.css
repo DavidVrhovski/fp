@@ -1,1 +1,121 @@
+.postavatar,body.page-forum .forumblock .forumlastpostavatar{display:none}
+.postrender .postinner>.postuser .background-image{background-repeat:no-repeat;}
+.alert-dropdown div {padding: 0 .5rem .5rem;}
+.ql-container.ql-snow .ql-editor p {color: #0a0a0a; font-size: 11pt;}
+body.page-forum .forumblock .threadcount, body.page-forum .forumblock .postcount { display: none; }
+.postrender .postinner>.postuser .username {
+  text-align: center;
+}
+spoiler:hover {
+    transition: color 0s ease 0s;
+    color: #fff;
+}
+spoiler {
+    transition: color 0s ease 0s;
+    color: #333;
+    background-color: #333;
+    filter: none;
+    opacity: 1;
+}
+span[data-label="Agree"] > a > img {
+    content: url("https://www.wikipunch.com/images/2/2b/2011rating_Agree.png");
+}
+
+span[data-label="Disagree"] > a > img {
+    content: url("https://www.wikipunch.com/images/b/b2/2011rating_Disagree.png");
+}
+
+span[data-label="Funny"] > a > img {
+    content: url("https://www.wikipunch.com/images/6/6c/2011rating_Funny.png");
+}
+
+span[data-label="Late"] > a > img {
+    content: url("https://www.wikipunch.com/images/3/3d/2011rating_Late.png");
+}
+
+span[data-label="Friendly"] > a > img {
+    content: url("https://www.wikipunch.com/images/2/20/2011rating_Friendly.png");
+}
+
+span[data-label="Sympathy"] > a > img {
+    content: url("https://puu.sh/zITYm/dd22835865.png");
+}
+
+span[data-label="Artistic"] > a > img {
+    content: url("https://www.wikipunch.com/images/d/d4/2011rating_Artistic.png");
+}
+
+span[data-label="Winner"] > a > img {
+    content: url("https://puu.sh/zISyu/3dcfc16599.png");
+}
+
+span[data-label="Dumb"] > a > img {
+    content: url("https://www.wikipunch.com/images/d/d2/2011rating_Dumb.png");
+}
+
+span[data-label="Child Molester"] > a > img {
+    content: url("https://www.wikipunch.com/images/1/13/2011rating_OIFY_Pinknipple.png");
+}
+
+span[data-label="Baby"] > a > img {
+    content: url("https://puu.sh/zIU8Q/bfde8ce181.png");
+}
+
+span[data-label="Coin"] > a > img {
+    content: url("https://puu.sh/zISbP/34d319dbb7.png");
+}
+
+span[data-label="Good Idea"] > a > img {
+    content: url("https://www.wikipunch.com/images/5/5e/2011rating_Zing.png");
+}
+
+span[data-label="Snowflake"] > a > img {
+    content: url("https://www.wikipunch.com/images/0/04/2011rating_Optimistic.png");
+}
+
+span[data-label="Diamond"] > a > img {
+    content: url("https://puu.sh/zIScz/a315d6831c.png");
+}
+
+span[data-label="Asshole"] > a > img {
+    content: url("http://puu.sh/zY8Pt/d7c6a646e4.png");
+}
+
+span[data-label="Bad Spelling"] > a > img {
+    content: url("https://www.wikipunch.com/images/6/62/Spellcheck.png");
+}
+
+span[data-label="Bad Reading"] > a > img {
+    content: url("https://www.wikipunch.com/images/5/56/Book_error.png");
+}
+
+span[data-label="Cute"] > a > img {
+    content: url("https://files.facepunch.com/garry/9b68c6b4-4aad-4e3c-b957-e012f8171ca3.png");
+}
+
+span[data-label="Lucky"] > a > img {
+    content: url("https://www.wikipunch.com/images/9/97/2011rating_Smarked.png");
+}
+
+span[data-label="Big Woop"] > a > img {
+    content: url("https://puu.sh/zIU4n/30699f3b53.png");
+}
+
+span[data-label="Informative"] > a > img {
+    content: url("http://puu.sh/zY8Kq/366de4eb56.png");
+}
+
+.ql-container.ql-snow .ql-editor blockquote {color: #6e9c9f;}
+.ql-snow .ql-editor blockquote {padding-left: 0;}
+.ql-container.ql-snow .ql-editor blockquote::before {
+    content: ">";
+    opacity: 1;
+    padding-right: 0;
+}
+.voted_notice span {
+	display: none;
+}
+.voted_notice:after {
+	content: "Your PayPal has been successfuly charged";
+}
 
